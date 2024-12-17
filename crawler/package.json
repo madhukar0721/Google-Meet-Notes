@@ -1,0 +1,19 @@
+{
+  "name": "spawner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -b && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/selenium-webdriver": "^4.1.27",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.27.0"
+  }
+}
